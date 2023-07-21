@@ -1,5 +1,6 @@
 # mediapipe-example-volume-control
 This Python program allows you to change the volume of the system using your fingers.
+![image](https://github.com/SmFaraji/mediapipe-example-volume-control/blob/main/image.png)
 youtube project video: https://www.youtube.com/watch?v=fMvbB8AQIpQ
 
 install necessary library by this command: pip install -r requirements.txt
